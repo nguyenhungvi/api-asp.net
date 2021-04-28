@@ -1,3 +1,6 @@
 https://github.com/thanhphuocnguyen897/MVC/tree/master/QLPB
 
 https://github.com/thanhphuocnguyen897/MVC/tree/master/QLPB.Web
+
+//knock out and datatable
+http://embed.plnkr.co/eroIox6zqBFOVnf86Mdk/
