@@ -4,3 +4,6 @@ https://github.com/thanhphuocnguyen897/MVC/tree/master/QLPB.Web
 
 //knock out and datatable
 http://embed.plnkr.co/eroIox6zqBFOVnf86Mdk/
+
+//tien ich knock out
+http://www.knockmeout.net/2011/04/utility-functions-in-knockoutjs.html
