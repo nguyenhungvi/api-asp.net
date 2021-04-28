@@ -7,3 +7,6 @@ http://embed.plnkr.co/eroIox6zqBFOVnf86Mdk/
 
 //tien ich knock out
 http://www.knockmeout.net/2011/04/utility-functions-in-knockoutjs.html
+
+//crud knock out
+https://www.c-sharpcorner.com/UploadFile/raj1979/add-edit-delete-data-using-knockout-in-mvc-4/
